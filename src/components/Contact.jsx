@@ -23,7 +23,7 @@ const Contact = () => {
           <a href="https://github.com/CodeVistaPro" target="_blank" rel="noopener noreferrer">
             <FaGithub className="hover:text-gray-700 dark:hover:text-white" />
           </a>
-          <a href="https://linkedin.com/in/your-linkedin" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.linkedin.com/in/sharongilbert9/" target="_blank" rel="noopener noreferrer">
             <FaLinkedin className="hover:text-gray-700 dark:hover:text-white" />
           </a>
           <a href="mailto:gilbert955sharon@gmail.com">
@@ -37,7 +37,7 @@ const Contact = () => {
         {/* ✅ Resume Button Only (Extra Text Removed) */}
         <div className="mt-6">
           <a
-            href="your-resume-link.pdf"
+            href="https://docs.google.com/document/d/1gDtCC6DWwuVABCdzsxaNrWo1w4eYC3qN/edit?usp=drive_link&ouid=117823038612211157151&rtpof=true&sd=true"
             className="bg-cyan-500 text-white px-6 py-2 rounded-md text-lg font-medium hover:bg-cyan-600"
             target="_blank"
             rel="noopener noreferrer"
